@@ -14,7 +14,7 @@
             <header>
                 <br>
                 <h1 class="text-light">Sistema Login Simples</h1>
-                <h2>Para iniciar sua experiência em nossa plataforma, informe seu login e senha:</h2>
+                <h2>Para iniciar sua experiência em nossa plataforma, informe seu login e password:</h2>
             </header>
             <%--Conteúdo Principal--%>
             <br>
@@ -27,7 +27,7 @@
                             <td width="120"><input name="login" type="text" id="login" class="form-control" placeholder="digite seu login"></td>
                         </tr>
                         <tr>
-                            <td width="40" class="text-light">Senha:</td>
+                            <td width="40" class="text-light">Password:</td>
                             <td width="120"><input name="senha" type="password" id="senha" class="form-control" placeholder="digite sua senha"></td>
                         </tr>
                         <%--<p class="text-muted mt-4"></p>--%>    
